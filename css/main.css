@@ -1,0 +1,21 @@
+body {
+	background-image: url("../img/nbabg.jpg");
+}
+
+.title {
+	text-align: center;
+	font-size: 50px;
+	color: white;
+}
+
+.correct {
+	color: blue;
+}
+
+.incorrect {
+	color: red;
+}
+
+h1.correct, h1.incorrect {
+	width:250px;
+}
